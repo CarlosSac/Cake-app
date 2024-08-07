@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/CarlosSac/Cake-app#readme",
   "dependencies": {
-    "electron": "^31.2.1"
+    "electron": "^31.3.1"
   }
 }
